@@ -1,0 +1,405 @@
+S#,Week_Day,Month,Day,Year,Prime_Minister,Time,Location,City,Province,No_of_Strike,Al_Qaeda,Taliban,Civilians,Total_Died,Women/Children,Longitude,Latitude
+1,Friday,6,18,2004,Pervez Musharraf,22:00,Near Wana,South Waziristan,FATA,1,,1,4,5,N,69.9,33.0333
+2,Sunday,5,8,2005,Pervez Musharraf,23:30,Mir Ali (Near Afghan Border),North Waziristan,FATA,1,1,,1,2,N,70.1455,32.9746
+3,Thursday,12,1,2005,Pervez Musharraf,,Haisori- Miran Shah,North Waziristan,FATA,1,1,,1,5,,70.1455,32.9746
+4,Friday,1,6,2006,Pervez Musharraf,,Saidgai village- 115km north of Wana,North Waziristan,FATA,1,,,,3,,70.1455,32.9746
+5,Friday,1,13,2006,Pervez Musharraf,3:00,Damadola Village,Bajaur  Agency,FATA,1,,,18,18,Y,71.5,34.6833
+6,Monday,10,30,2006,Pervez Musharraf,,Chenagai,Bajaur  Agency,FATA,1,,,82,82,Y,71.5,34.6833
+7,Friday,4,27,2007,Pervez Musharraf,,Saidgai village,North Waziristan,FATA,1,,,2,4,,70.1455,32.9746
+8,Tuesday,6,19,2007,Pervez Musharraf,10:30,MamiRogha- Dattakhel,North Waziristan,FATA,3,,,32,32,Y,70.1455,32.9746
+9,Friday,11,2,2007,Pervez Musharraf,,Dandey darpakhel-Miranshah,North Waziristan,FATA,1,,,8,10,,70.1455,32.9746
+10,Monday,12,3,2007,Pervez Musharraf,,Jani Khel,Bannu,KPK,1,,,,,,70.6042,32.9861
+11,Tuesday,1,29,2008,Pervez Musharraf,4:00,Khushali village,North Waziristan,FATA,1,1,,7,13,Y,70.1455,32.9746
+12,Thursday,2,28,2008,Pervez Musharraf,2:00,Kalosha,South Waziristan,FATA,1,,,8,13,,69.9,33.0333
+13,Sunday,3,16,2008,Pervez Musharraf,15:35,Dhok Pirbagh- WANA,South Waziristan,FATA,6,,,0,20,,69.9,33.0333
+14,Tuesday,4,1,2008,Pervez Musharraf,,Miran shah,North Waziristan,FATA,2,,,3,3,,70.1455,32.9746
+15,Wednesday,5,14,2008,Asif Ali Zardari,20:00,Damadola Village- near Afghan border,Bajaur  Agency,FATA,2,1,,19,20,Y,71.5,34.6833
+16,Saturday,6,14,2008,Asif Ali Zardari,,Makeen,South Waziristan,FATA,3,,,1,1,,69.9,33.0333
+17,Monday,7,28,2008,Asif Ali Zardari,,Azam Warsak- Near Wana,South Waziristan,FATA,1,1,,6,7,Y,69.9,33.0333
+18,Wednesday,8,13,2008,Asif Ali Zardari,20:30,Baghar near Angoor adda- WANA,South Waziristan,FATA,1,,,12,20,,69.9,33.0333
+19,Wednesday,8,20,2008,Asif Ali Zardari,19:00,Zari Noori area,South Waziristan,FATA,1,,,8,8,,69.9,33.0333
+20,Wednesday,8,27,2008,Asif Ali Zardari,,Ganghikhel area,South Waziristan,FATA,1,,,0,,Y,69.9,33.0333
+21,Saturday,8,30,2008,Asif Ali Zardari,16:30,Ganghikhel- WANA,South Waziristan,FATA,1,,,6,6,,69.9,33.0333
+22,Saturday,8,30,2008,Asif Ali Zardari,15:00,Gundikili village- Miranshah,North Waziristan,FATA,1,,,0,6,Y,70.1455,32.9746
+23,Thursday,9,4,2008,Asif Ali Zardari,17:00,Muhammand Khel- Miranshah,North Waziristan,FATA,1,,,6,6,,70.1455,32.9746
+24,Friday,9,5,2008,Asif Ali Zardari,9:00,Gorveek- Miranshah,North Waziristan,FATA,3,,,10,10,Y,70.1455,32.9746
+25,Monday,9,8,2008,Asif Ali Zardari,10:20,Dandey darpakhel-Miranshah,North Waziristan,FATA,4,,7,18,25,Y,70.1455,32.9746
+26,Friday,9,12,2008,Asif Ali Zardari,5:30,Tol khel,North Waziristan,FATA,1,,,14,14,,70.1455,32.9746
+27,Wednesday,9,17,2008,Asif Ali Zardari,,Angoor Adda,South Waziristan,FATA,1,,,5,7,,69.9,33.0333
+28,Wednesday,10,1,2008,Asif Ali Zardari,,Mirali,North Waziristan,FATA,1,,,6,6,,70.1455,32.9746
+29,Friday,10,3,2008,Asif Ali Zardari,16:00,Muhammand Khel- Miranshah,North Waziristan,FATA,2,,,5,21,Y,70.1455,32.9746
+30,Thursday,10,9,2008,Asif Ali Zardari,22:00,Tapai-Miranshah,North Waziristan,FATA,1,,,3,9,,70.1455,32.9746
+31,Saturday,10,11,2008,Asif Ali Zardari,,Miranshah,North Waziristan,FATA,2,,5,4,9,,70.1455,32.9746
+32,Thursday,10,16,2008,Asif Ali Zardari,11:30,Sam-WANA,South Waziristan,FATA,1,,,5,7,,69.9,33.0333
+33,Thursday,10,23,2008,Asif Ali Zardari,,Miranshah,North Waziristan,FATA,1,,,11,11,,70.1455,32.9746
+34,Sunday,10,26,2008,Asif Ali Zardari,,wana,South Waziristan,FATA,1,,,20,20,,69.9,33.0333
+35,Friday,10,31,2008,Asif Ali Zardari,,wana,South Waziristan,FATA,1,1,,27,28,,69.9,33.0333
+36,Friday,10,31,2008,Asif Ali Zardari,,Mirali,North Waziristan,FATA,1,,12,6,12,,70.1455,32.9746
+37,Friday,11,7,2008,Asif Ali Zardari,10:00,kumsham-Miranshah,North Waziristan,FATA,4,7,1,13,16,,70.1455,32.9746
+38,Friday,11,14,2008,Asif Ali Zardari,1:45,miranshah,North Waziristan,FATA,1,,,6,13,,70.1455,32.9746
+39,Wednesday,11,19,2008,Asif Ali Zardari,3:00,Janikhel,Bannu,KPK,1,,,4,6,,70.6042,32.9861
+40,Saturday,11,22,2008,Asif Ali Zardari,4:30,Miranshah,North Waziristan,FATA,1,,,5,5,Y,70.1455,32.9746
+41,Saturday,11,29,2008,Asif Ali Zardari,,Chashma-Miranshah,North Waziristan,FATA,1,,,3,3,Y,70.1455,32.9746
+42,Friday,12,5,2008,Asif Ali Zardari,,Khushal Torikhel- Mirnshah,North Waziristan,FATA,1,,,6,6,,70.1455,32.9746
+43,Thursday,12,11,2008,Asif Ali Zardari,,Azam Warsak,South Waziristan,FATA,1,,,7,7,,69.9,33.0333
+44,Monday,12,15,2008,Asif Ali Zardari,,Tappi Tolkhel- Miranshah,North Waziristan,FATA,1,,,2,2,,70.1455,32.9746
+45,Monday,12,22,2008,Asif Ali Zardari,,Ghawakhawa- Wana,South Waziristan,FATA,1,,,3,3,,69.9,33.0333
+46,Monday,12,22,2008,Asif Ali Zardari,,Azam Warsak- Near Wana,South Waziristan,FATA,1,,,5,5,,69.9,33.0333
+47,Thursday,1,1,2009,Asif Ali Zardari,,Karrikot- Wanna,South Waziristan,FATA,1,,5,0,5,N,69.9,33.0333
+48,Friday,1,2,2009,Asif Ali Zardari,10:00,Laddha,South Waziristan,FATA,2,,,4,4,N,69.9,33.0333
+49,Friday,1,23,2009,Asif Ali Zardari,17:00,Mir Ali (Near Afghan Border),North Waziristan,FATA,1,,5,10,22,N,70.1455,32.9746
+50,Saturday,2,14,2009,Asif Ali Zardari,7:45,Laddha,South Waziristan,FATA,1,,2,33,35,Y,69.9,33.0333
+51,Monday,2,16,2009,Asif Ali Zardari,10:00,Kurram,Khyber Agency,FATA,3,,,22,30,N,68.50235,25.67848
+52,Sunday,3,1,2009,Asif Ali Zardari,,Sararogha,South Waziristan,FATA,2,,,8,12,N,69.9,33.0333
+53,Thursday,3,12,2009,Asif Ali Zardari,,Barjo,Kurram Agency,FATA,1,,,25,25,N,69.9667,33.8167
+54,Sunday,3,15,2009,Asif Ali Zardari,22:30,Bannu,Bannu,KPK,1,,,3,5,N,70.6042,32.9861
+55,Wednesday,3,25,2009,Asif Ali Zardari,17:00,Makin,South Waziristan,FATA,1,7,,7,8,N,69.9,33.0333
+56,Thursday,3,26,2009,Asif Ali Zardari,,Mir Ali (Near Afghan Border),North Waziristan,FATA,1,,,5,5,Y,70.1455,32.9746
+57,Wednesday,4,1,2009,Asif Ali Zardari,,Khadezai,Orakzai,FATA,1,,,14,14,N,69.8597,32.6674
+58,Saturday,4,4,2009,Asif Ali Zardari,19:45,Miran shah,North Waziristan,FATA,2,,,13,13,N,70.1455,32.9746
+59,Wednesday,4,8,2009,Asif Ali Zardari,,Gangi Khel- Wana,South Waziristan,FATA,1,,3,3,4,N,69.9,33.0333
+60,Sunday,4,19,2009,Asif Ali Zardari,,Gangi Khel- Wana,South Waziristan,FATA,1,,,3,3,Y,69.9,33.0333
+61,Wednesday,4,29,2009,Asif Ali Zardari,20:15,KaniGaram-Ladha,South Waziristan,FATA,1,,,8,10,N,69.9,33.0333
+62,Saturday,5,9,2009,Asif Ali Zardari,10:00,Sararogha,South Waziristan,FATA,1,,,10,10,N,69.9,33.0333
+63,Tuesday,5,12,2009,Asif Ali Zardari,4:00,Sra Khawra,South Waziristan,FATA,1,,,10,10,Y,69.9,33.0333
+64,Saturday,5,16,2009,Asif Ali Zardari,8:00,Khaisoor Area,North Waziristan,FATA,1,2,25,25,29,N,70.1455,32.9746
+65,Sunday,6,14,2009,Asif Ali Zardari,,Laddha,South Waziristan,FATA,1,,,5,5,N,69.9,33.0333
+66,Thursday,6,18,2009,Asif Ali Zardari,10:00,Shah Alam- Wana,South Waziristan,FATA,1,,,9,9,N,69.9,33.0333
+67,Tuesday,6,23,2009,Asif Ali Zardari,,wana,South Waziristan,FATA,1,,,50,50,N,69.9,33.0333
+68,Friday,7,3,2009,Asif Ali Zardari,6:30,KokatKhel,South Waziristan,FATA,1,,,17,17,N,69.9,33.0333
+69,Tuesday,7,7,2009,Asif Ali Zardari,10:00,Laddha,South Waziristan,FATA,1,,,12,16,N,69.9,33.0333
+70,Wednesday,7,8,2009,Asif Ali Zardari,,Laddha,South Waziristan,FATA,1,,,60,60,N,69.9,33.0333
+71,Friday,7,10,2009,Asif Ali Zardari,,PaindaKhel,South Waziristan,FATA,1,,,8,8,N,69.9,33.0333
+72,Friday,7,17,2009,Asif Ali Zardari,16:00,Miran shah,South Waziristan,FATA,1,,5,4,5,N,69.9,33.0333
+73,Wednesday,8,5,2009,Asif Ali Zardari,,Laddha,South Waziristan,FATA,1,,1,2,3,Y,69.9,33.0333
+74,Tuesday,8,11,2009,Asif Ali Zardari,,Laddha,South Waziristan,FATA,1,,10,10,14,Y,69.9,33.0333
+75,Friday,8,21,2009,Asif Ali Zardari,,Miran shah,South Waziristan,FATA,1,,,13,13,Y,69.9,33.0333
+76,Thursday,8,27,2009,Asif Ali Zardari,15:50,Laddha,South Waziristan,FATA,1,,,10,10,N,69.9,33.0333
+77,Tuesday,9,8,2009,Asif Ali Zardari,23:45,Mir Ali,South Waziristan,FATA,1,,,5,8,N,69.9,33.0333
+78,Wednesday,9,9,2009,Asif Ali Zardari,,Miran shah,South Waziristan,FATA,1,,10,0,10,N,69.9,33.0333
+79,Monday,9,14,2009,Asif Ali Zardari,6:05,mir ali,South Waziristan,FATA,1,,,6,8,N,69.9,33.0333
+80,Thursday,9,24,2009,Asif Ali Zardari,23:00,Miran shah,South Waziristan,FATA,1,,10,10,12,N,69.9,33.0333
+81,Tuesday,9,29,2009,Asif Ali Zardari,,Sararogha,South Waziristan,FATA,1,,,12,12,N,69.9,33.0333
+82,Tuesday,9,29,2009,Asif Ali Zardari,19:30,Miran shah,South Waziristan,FATA,1,,9,4,12,N,69.9,33.0333
+83,Wednesday,9,30,2009,Asif Ali Zardari,,Miran shah,North Waziristan,FATA,1,,,6,6,N,70.1455,32.9746
+84,Thursday,10,15,2009,Asif Ali Zardari,3:40,Miran shah,North Waziristan,FATA,1,,4,6,10,Y,70.1455,32.9746
+85,Wednesday,10,21,2009,Asif Ali Zardari,,Spalga,North Waziristan,FATA,1,,,5,5,N,70.1455,32.9746
+86,Saturday,10,24,2009,Asif Ali Zardari,11:30,Damadola,Bajaur  Agency,FATA,1,,,22,27,N,71.5,34.6833
+87,Thursday,11,5,2009,Asif Ali Zardari,1:30,mir ali,North Waziristan,FATA,1,,,6,6,N,70.1455,32.9746
+88,Wednesday,11,18,2009,Asif Ali Zardari,23:00,Mir Ali,North Waziristan,FATA,1,,,5,5,N,70.1455,32.9746
+89,Friday,11,20,2009,Asif Ali Zardari,,Mir Ali,North Waziristan,FATA,1,,8,8,10,N,70.1455,32.9746
+90,Tuesday,12,8,2009,Asif Ali Zardari,6:20,Spalga,North Waziristan,FATA,2,,3,0,3,N,70.1455,32.9746
+91,Thursday,12,10,2009,Asif Ali Zardari,,Laddha,South Waziristan,FATA,1,4,2,6,10,N,69.9,33.0333
+92,Thursday,12,17,2009,Asif Ali Zardari,,Datta Khel,North Waziristan,FATA,1,,,2,2,N,70.1455,32.9746
+93,Friday,12,18,2009,Asif Ali Zardari,3:50,Datta Khel,North Waziristan,FATA,1,,2,6,8,Y,70.1455,32.9746
+94,Friday,12,18,2009,Asif Ali Zardari,15:30,Datta Khel,North Waziristan,FATA,1,,8,5,8,,70.1455,32.9746
+95,Saturday,12,26,2009,Asif Ali Zardari,19:00,Miran shah,North Waziristan,FATA,1,,,10,13,N,70.1455,32.9746
+96,Thursday,12,31,2009,Asif Ali Zardari,,Miran shah,North Waziristan,FATA,2,,,4,4,N,70.1455,32.9746
+97,Friday,1,1,2010,Asif Ali Zardari,8:50,Nawana,North Waziristan,FATA,2,,,2,2,,70.1455,32.9746
+98,Sunday,1,3,2010,Asif Ali Zardari,20:30,Mosaki village-near Mir Ali,North Waziristan,FATA,2,,,2,5,,70.1455,32.9746
+99,Wednesday,1,6,2010,Asif Ali Zardari,16:00,Sanzalai-Datta Khel,North Waziristan,FATA,1,,,25,25,Y,70.1455,32.9746
+100,Friday,1,8,2010,Asif Ali Zardari,10:00,Tappi Village,North Waziristan,FATA,1,,4,6,10,N,70.1455,32.9746
+101,Saturday,1,9,2010,Asif Ali Zardari,11:00,Ismail Khan,North Waziristan,FATA,1,,,4,4,N,70.1455,32.9746
+102,Thursday,1,14,2010,Asif Ali Zardari,6:30,Shakoi,South Waziristan,FATA,1,,10,10,15,N,69.9,33.0333
+103,Friday,1,15,2010,Asif Ali Zardari,,Mir Ali,South Waziristan,FATA,1,,11,6,20,N,69.9,33.0333
+104,Sunday,1,17,2010,Asif Ali Zardari,,shaktoi,South Waziristan,FATA,1,,,,20,,69.9,33.0333
+105,Tuesday,1,19,2010,Asif Ali Zardari,18:30,Booya Village,North Waziristan,FATA,1,,6,5,6,N,70.1455,32.9746
+106,Friday,1,29,2010,Asif Ali Zardari,,Mohammad Khel,North Waziristan,FATA,3,,,9,15,N,70.1455,32.9746
+107,Tuesday,2,2,2010,Asif Ali Zardari,17:30,Datta Khel- Degan- Kamar,North Waziristan,FATA,1,,16,16,17,N,70.1455,32.9746
+108,Sunday,2,14,2010,Asif Ali Zardari,3:30,Mir Ali,North Waziristan,FATA,1,,,7,7,N,70.1455,32.9746
+109,Monday,2,15,2010,Asif Ali Zardari,14:00,Tappi village- 15 km east of Miranshah,North Waziristan,FATA,1,,,,4,,70.1455,32.9746
+110,Wednesday,2,17,2010,Asif Ali Zardari,,Tappi Village,North Waziristan,FATA,1,,3,3,4,N,70.1455,32.9746
+111,Thursday,2,18,2010,Asif Ali Zardari,,Dande Darpakhel,North Waziristan,FATA,1,,4,,4,N,70.1455,32.9746
+112,Wednesday,2,24,2010,Asif Ali Zardari,,Darga Mandi,North Waziristan,FATA,1,,,8,9,N,70.1455,32.9746
+113,Monday,3,8,2010,Asif Ali Zardari,,miran shah,North Waziristan,FATA,1,,5,0,5,N,70.1455,32.9746
+114,Wednesday,3,10,2010,Asif Ali Zardari,21:20,miran shah,North Waziristan,FATA,1,,8,12,14,N,70.1455,32.9746
+115,Tuesday,3,16,2010,Asif Ali Zardari,12:45,datta khel,North Waziristan,FATA,1,,10,8,11,N,70.1455,32.9746
+116,Tuesday,3,16,2010,Asif Ali Zardari,,tol Khel,North Waziristan,FATA,1,,,6,6,N,70.1455,32.9746
+117,Wednesday,3,17,2010,Asif Ali Zardari,,Datta khel,North Waziristan,FATA,1,,,7,7,N,70.1455,32.9746
+118,Wednesday,3,17,2010,Asif Ali Zardari,,Mada Khel,North Waziristan,FATA,1,,,11,11,N,70.1455,32.9746
+119,Sunday,3,21,2010,Asif Ali Zardari,17:00,Datta Khel,North Waziristan,FATA,1,,,8,8,N,70.1455,32.9746
+120,Tuesday,3,23,2010,Asif Ali Zardari,21:00,miran shah,North Waziristan,FATA,1,,,6,6,N,70.1455,32.9746
+121,Saturday,3,27,2010,Asif Ali Zardari,,Mir Ali,North Waziristan,FATA,1,,,4,4,N,70.1455,32.9746
+122,Tuesday,3,30,2010,Asif Ali Zardari,23:00,Tappi Area,North Waziristan,FATA,1,,,5,5,N,70.1455,32.9746
+123,Monday,4,12,2010,Asif Ali Zardari,21:30,Datta Khel,North Waziristan,FATA,1,,,10,10,N,70.1455,32.9746
+124,Wednesday,4,14,2010,Asif Ali Zardari,19:00,Datta Khel,North Waziristan,FATA,1,,,5,5,N,70.1455,32.9746
+125,Friday,4,16,2010,Asif Ali Zardari,,Toorikhel,North Waziristan,FATA,1,,6,0,6,N,70.1455,32.9746
+126,Saturday,4,24,2010,Asif Ali Zardari,21:00,miran shah,North Waziristan,FATA,1,,,9,9,N,70.1455,32.9746
+127,Monday,4,26,2010,Asif Ali Zardari,,Khushali Toorikhel,North Waziristan,FATA,1,,6,5,9,N,70.1455,32.9746
+128,Monday,5,3,2010,Asif Ali Zardari,15:30,Machi Khel-Mir Ali,North Waziristan,FATA,1,,,7,7,N,70.1455,32.9746
+129,Sunday,5,9,2010,Asif Ali Zardari,8:00,Inzarkas in Datta Khel,North Waziristan,FATA,1,,,11,11,N,70.1455,32.9746
+130,Tuesday,5,11,2010,Asif Ali Zardari,6:00,Doga- Datta Khel,North Waziristan,FATA,1,,,15,15,N,70.1455,32.9746
+131,Tuesday,5,11,2010,Asif Ali Zardari,14:00,Gurwak,North Waziristan,FATA,1,,7,7,14,N,70.1455,32.9746
+132,Saturday,5,15,2010,Asif Ali Zardari,,Tirah valley,Khyber Agency,FATA,1,,,15,15,N,71.1481,34.0983
+133,Friday,5,21,2010,Asif Ali Zardari,,Muhammad Khel,North Waziristan,FATA,1,,6,4,10,Y,70.1455,32.9746
+134,Friday,5,28,2010,Asif Ali Zardari,12:00,Mizai Narai,South Waziristan,FATA,1,,,11,11,N,69.9,33.0333
+135,Thursday,6,10,2010,Asif Ali Zardari,,Khadi village,North Waziristan,FATA,1,,,3,3,N,70.1455,32.9746
+136,Friday,6,11,2010,Asif Ali Zardari,7:30,Bahadar Khel village- Dattakhel,North Waziristan,FATA,1,,,12,15,N,70.1455,32.9746
+137,Saturday,6,19,2010,Asif Ali Zardari,9:30,Haider Khel-Mir Ali,North Waziristan,FATA,1,,,16,16,N,70.1455,32.9746
+138,Saturday,6,26,2010,Asif Ali Zardari,,Khushali khel village- Mir Ali,North Waziristan,FATA,1,,,4,4,N,70.1455,32.9746
+139,Sunday,6,27,2010,Asif Ali Zardari,15:30,Tabbi Tolkhel-4 km north of MiranShah,North Waziristan,FATA,1,,6,5,6,N,70.1455,32.9746
+140,Tuesday,6,29,2010,Asif Ali Zardari,7:00,Kari Kot,South Waziristan,FATA,2,1,,7,8,N,69.9,33.0333
+141,Thursday,7,15,2010,Asif Ali Zardari,,Misermada Khel- MiranShah,North Waziristan,FATA,2,,,7,7,N,70.1455,32.9746
+142,Saturday,7,24,2010,Asif Ali Zardari,,Dwasarak- 40km west of Wana,South Waziristan,FATA,1,,,18,18,N,69.9,33.0333
+143,Sunday,7,25,2010,Asif Ali Zardari,,shaktoi,South Waziristan,FATA,1,,,6,6,Y,69.9,33.0333
+144,Sunday,7,25,2010,Asif Ali Zardari,11:30,shaktoi,South Waziristan,FATA,1,,,5,5,Y,69.9,33.0333
+145,Sunday,7,25,2010,Asif Ali Zardari,,MiranShah,North Waziristan,FATA,1,,,4,4,Y,70.1455,32.9746
+146,Saturday,8,14,2010,Asif Ali Zardari,9:30,Issori village- Mir Ali,North Waziristan,FATA,1,,,12,13,N,70.1455,32.9746
+147,Saturday,8,21,2010,Asif Ali Zardari,,KutabKhel- 3km south of MiranShah,North Waziristan,FATA,1,,,6,6,N,70.1455,32.9746
+148,Monday,8,23,2010,Asif Ali Zardari,,Danday Darpa Khel- 5km from Miran Shah,North Waziristan,FATA,1,,,10,12,N,70.1455,32.9746
+149,Monday,8,23,2010,Asif Ali Zardari,,Dera Mandi,North Waziristan,FATA,1,,,11,11,,70.1455,32.9746
+150,Friday,8,27,2010,Asif Ali Zardari,11:30,Shaheedano- Badshah Kot- Talokonj,Kurram Agency,FATA,1,,,9,9,,69.9667,33.8167
+151,Friday,9,3,2010,Asif Ali Zardari,,MiranShah,North Waziristan,FATA,1,,,9,9,N,70.1455,32.9746
+152,Friday,9,3,2010,Asif Ali Zardari,,Datta Khel,North Waziristan,FATA,1,,,4,4,N,70.1455,32.9746
+153,Monday,9,6,2010,Asif Ali Zardari,,Khar Qamar,North Waziristan,FATA,1,,,5,5,N,70.1455,32.9746
+154,Wednesday,9,8,2010,Asif Ali Zardari,6:30,Danday darpakhel- 3 km west of miranshah bazar,North Waziristan,FATA,1,,,10,10,Y,70.1455,32.9746
+155,Wednesday,9,8,2010,Asif Ali Zardari,,Ambor Shaga,North Waziristan,FATA,1,,,0,4,Y,70.1455,32.9746
+156,Wednesday,9,8,2010,Asif Ali Zardari,21:00,Darga Mandi- Miran Shah,North Waziristan,FATA,1,,,6,6,Y,70.1455,32.9746
+157,Thursday,9,9,2010,Asif Ali Zardari,4:30,Machus Camp- Miran shah,North Waziristan,FATA,1,,,6,6,,70.1455,32.9746
+158,Sunday,9,12,2010,Asif Ali Zardari,6:15,Newey Adda village in Datta Khel- near Miranshah,North Waziristan,FATA,1,,,4,5,N,70.1455,32.9746
+159,Tuesday,9,14,2010,Asif Ali Zardari,6:00,Bush Narai,North Waziristan,FATA,1,,,12,12,N,70.1455,32.9746
+160,Tuesday,9,14,2010,Asif Ali Zardari,19:00,KutabKhel-MiranShah,North Waziristan,FATA,1,,,5,5,N,70.1455,32.9746
+161,Wednesday,9,15,2010,Asif Ali Zardari,16:30,Danday Darpa Khel- Miran Shah,North Waziristan,FATA,1,,,12,14,N,70.1455,32.9746
+162,Wednesday,9,15,2010,Asif Ali Zardari,,Datta Khel,North Waziristan,FATA,1,,,7,7,N,70.1455,32.9746
+163,Sunday,9,19,2010,Asif Ali Zardari,,Datta Khel,North Waziristan,FATA,1,,,5,5,N,70.1455,32.9746
+164,Monday,9,20,2010,Asif Ali Zardari,,Datta Khel,North Waziristan,FATA,1,,,9,9,N,70.1455,32.9746
+165,Tuesday,9,21,2010,Asif Ali Zardari,17:30,Khund,South Waziristan,FATA,1,,,8,8,N,69.9,33.0333
+166,Tuesday,9,21,2010,Asif Ali Zardari,,Azam Warsak Village,South Waziristan,FATA,1,,,12,12,N,69.9,33.0333
+167,Tuesday,9,21,2010,Asif Ali Zardari,,Azam Warsak Village,South Waziristan,FATA,1,,,8,8,,69.9,33.0333
+168,Saturday,9,25,2010,Asif Ali Zardari,,Datta Khel,North Waziristan,FATA,1,,,4,4,N,70.1455,32.9746
+169,Sunday,9,26,2010,Asif Ali Zardari,,Manada khel- Darmano road- and Lawar Mandi in Datta Khel,North Waziristan,FATA,1,,,12,12,N,70.1455,32.9746
+170,Monday,9,27,2010,Asif Ali Zardari,,Khshali ToorKhel- southeast of Miran Shah,North Waziristan,FATA,1,,,4,4,N,70.1455,32.9746
+171,Tuesday,9,28,2010,Asif Ali Zardari,,Zeba Village-Wana,South Waziristan,FATA,1,,,4,4,N,69.9,33.0333
+172,Saturday,10,2,2010,Asif Ali Zardari,10:00,Kasra madda khel-and  Tirmara-in Datta khel,North Waziristan,FATA,1,,,17,18,N,70.1455,32.9746
+173,Monday,10,4,2010,Asif Ali Zardari,12:00,Mir Ali,North Waziristan,FATA,1,,,1,9,N,70.1455,32.9746
+174,Wednesday,10,6,2010,Asif Ali Zardari,17:00,MiranShah Bazaar,North Waziristan,FATA,1,,,6,6,N,70.1455,32.9746
+175,Wednesday,10,6,2010,Asif Ali Zardari,,Hurmaz village of Mir ali,North Waziristan,FATA,1,,,5,5,N,70.1455,32.9746
+176,Thursday,10,7,2010,Asif Ali Zardari,17:40,Khaisoori- 40km east of Miranshah,North Waziristan,FATA,1,,,2,4,N,70.1455,32.9746
+177,Friday,10,8,2010,Asif Ali Zardari,17:35,MiranShah,North Waziristan,FATA,1,,,10,10,N,70.1455,32.9746
+178,Sunday,10,10,2010,Asif Ali Zardari,11:00,Shewa istrict- spinwan tehsil,North Waziristan,FATA,1,,,8,8,N,70.1455,32.9746
+179,Wednesday,10,13,2010,Asif Ali Zardari,9:00,Inzarkas in Datta Khel,North Waziristan,FATA,1,,,7,11,N,70.1455,32.9746
+180,Friday,10,15,2010,Asif Ali Zardari,,machikhel area- near Mirali,North Waziristan,FATA,1,,,6,6,N,70.1455,32.9746
+181,Friday,10,15,2010,Asif Ali Zardari,23:45,Aziz Khel,North Waziristan,FATA,1,,,6,6,N,70.1455,32.9746
+182,Monday,10,18,2010,Asif Ali Zardari,,Sunzali area of Dattakhel,North Waziristan,FATA,1,,,6,7,N,70.1455,32.9746
+183,Wednesday,10,27,2010,Asif Ali Zardari,3:30,Spinwam. Mir Ali,North Waziristan,FATA,1,,,5,5,N,70.1455,32.9746
+184,Wednesday,10,27,2010,Asif Ali Zardari,14:45,Degan of datta khel,North Waziristan,FATA,1,,,3,4,N,70.1455,32.9746
+185,Thursday,10,28,2010,Asif Ali Zardari,9:00,MiranShah,North Waziristan,FATA,1,,,5,7,N,70.1455,32.9746
+186,Monday,11,1,2010,Asif Ali Zardari,9:30,Haider Khel- Mir Ali,North Waziristan,FATA,1,,,6,6,N,70.1455,32.9746
+187,Wednesday,11,3,2010,Asif Ali Zardari,,Anzer village near miranshah- eso khel village of Mir ali- Poikhel village of datta khel,North Waziristan,FATA,1,,,12,18,N,70.1455,32.9746
+188,Sunday,11,7,2010,Asif Ali Zardari,,Dandi saidgai- miramshah,North Waziristan,FATA,1,,,9,9,N,70.1455,32.9746
+189,Sunday,11,7,2010,Asif Ali Zardari,,Datta khel- Miramshah,North Waziristan,FATA,1,,,9,9,N,70.1455,32.9746
+190,Thursday,11,11,2010,Asif Ali Zardari,,Gulli khel in Ghulam Khan,North Waziristan,FATA,1,,,8,8,N,70.1455,32.9746
+191,Saturday,11,13,2010,Asif Ali Zardari,,MiranShah,North Waziristan,FATA,1,,,5,5,N,70.1455,32.9746
+192,Tuesday,11,16,2010,Asif Ali Zardari,9:00,Ghulam Khan,North Waziristan,FATA,1,,,16,20,N,70.1455,32.9746
+193,Friday,11,19,2010,Asif Ali Zardari,12:00,Naurak village- 15 km east of Miranshah,North Waziristan,FATA,1,,,4,4,N,70.1455,32.9746
+194,Sunday,11,21,2010,Asif Ali Zardari,,Khadi village,North Waziristan,FATA,1,,,9,9,N,70.1455,32.9746
+195,Monday,11,22,2010,Asif Ali Zardari,,Khewsar Village- Miran shah,North Waziristan,FATA,1,,,6,6,N,70.1455,32.9746
+196,Friday,11,26,2010,Asif Ali Zardari,,Pir Kelay,North Waziristan,FATA,1,,,3,4,N,70.1455,32.9746
+197,Sunday,11,28,2010,Asif Ali Zardari,,Hasaan Khel- 30 km east of Miran Shah,North Waziristan,FATA,1,,,4,4,N,70.1455,32.9746
+198,Monday,12,6,2010,Asif Ali Zardari,,Khushali turikhel,North Waziristan,FATA,1,,,7,7,N,70.1455,32.9746
+199,Friday,12,10,2010,Asif Ali Zardari,17:45,Khadar Khel,North Waziristan,FATA,1,,,4,4,N,70.1455,32.9746
+200,Tuesday,12,14,2010,Asif Ali Zardari,,Spalga village- 15 km south of Miranshah,North Waziristan,FATA,1,,,4,4,N,70.1455,32.9746
+201,Thursday,12,16,2010,Asif Ali Zardari,,tirah valley,Khyber Agency,FATA,1,,2,5,7,N,71.1481,34.0983
+202,Friday,12,17,2010,Asif Ali Zardari,,tirah valley,Khyber Agency,FATA,4,,,50,50,N,71.1481,34.0983
+203,Monday,12,27,2010,Asif Ali Zardari,10:00,shera tala/and  Machikhel,North Waziristan,FATA,6,,,25,25,N,70.1455,32.9746
+204,Tuesday,12,28,2010,Asif Ali Zardari,10:00,Ghulam Khan,North Waziristan,FATA,1,,,22,22,N,70.1455,32.9746
+205,Friday,12,31,2010,Asif Ali Zardari,23:30,Ghulam Khan,North Waziristan,FATA,1,,,4,4,N,70.1455,32.9746
+206,Saturday,1,1,2011,Asif Ali Zardari,7:30,Madi Khel,North Waziristan,FATA,1,,,9,9,N,70.1455,32.9746
+207,Saturday,1,1,2011,Asif Ali Zardari,,Gharghuski village nera Naurak- in mirali,North Waziristan,FATA,1,,,11,11,N,70.1455,32.9746
+208,Saturday,1,1,2011,Asif Ali Zardari,,Mohammad Khel,North Waziristan,FATA,1,,,5,5,N,70.1455,32.9746
+209,Friday,1,7,2011,Asif Ali Zardari,,DattaKhel,North Waziristan,FATA,1,,,6,6,N,70.1455,32.9746
+210,Wednesday,1,12,2011,Asif Ali Zardari,9:30,Haider Khel- Mir Ali,North Waziristan,FATA,1,,,3,4,N,70.1455,32.9746
+211,Tuesday,1,18,2011,Asif Ali Zardari,23:00,DattaKhel,North Waziristan,FATA,1,,,7,7,N,70.1455,32.9746
+212,Sunday,1,23,2011,Asif Ali Zardari,,Datta khel,North Waziristan,FATA,1,,,4,4,N,70.1455,32.9746
+213,Sunday,1,23,2011,Asif Ali Zardari,,Datta Khel,North Waziristan,FATA,1,,,3,3,,70.1455,32.9746
+214,Sunday,1,23,2011,Asif Ali Zardari,,mando khel,North Waziristan,FATA,1,,,6,6,,70.1455,32.9746
+215,Sunday,2,20,2011,Asif Ali Zardari,2:00,Azam warsak,South Waziristan,FATA,1,,,6,6,N,69.9,33.0333
+216,Monday,2,21,2011,Asif Ali Zardari,23:15,Tappi village- Miranshah,North Waziristan,FATA,1,,,10,10,N,70.1455,32.9746
+217,Monday,2,21,2011,Asif Ali Zardari,,azamwarsak- west of wana,South Waziristan,FATA,1,,,7,7,N,69.9,33.0333
+218,Thursday,2,24,2011,Asif Ali Zardari,,Danday Darpa Khel- 30km west of miranshah,North Waziristan,FATA,3,,,0,2,N,70.1455,32.9746
+219,Thursday,2,24,2011,Asif Ali Zardari,,Data khel,North Waziristan,FATA,3,,,5,5,N,70.1455,32.9746
+220,Tuesday,3,8,2011,Asif Ali Zardari,12:00,Landi Dag area- 7 km south of Wana bazaar,South Waziristan,FATA,1,,,5,5,N,69.9,33.0333
+221,Tuesday,3,8,2011,Asif Ali Zardari,,Ismailkhel village,North Waziristan,FATA,1,,,5,5,N,70.1455,32.9746
+222,Friday,3,11,2011,Asif Ali Zardari,,Khaisor town- 30km north of Miranshah,North Waziristan,FATA,1,,,3,3,N,70.1455,32.9746
+223,Friday,3,11,2011,Asif Ali Zardari,,Khaisor town- 30km north of Miranshah,North Waziristan,FATA,1,,,3,3,N,70.1455,32.9746
+224,Sunday,3,13,2011,Asif Ali Zardari,,Esha check post- spalga village- 15km northwest of Miranshah,North Waziristan,FATA,1,,,6,6,N,70.1455,32.9746
+225,Sunday,3,13,2011,Asif Ali Zardari,,Azamwarsak-Pray kari village,South Waziristan,FATA,1,,,0,0,N,69.9,33.0333
+226,Monday,3,14,2011,Asif Ali Zardari,7:30,Tappi village- miranshah razmak road,North Waziristan,FATA,1,,,5,5,N,70.1455,32.9746
+227,Wednesday,3,16,2011,Asif Ali Zardari,,Amboor shega area in Dattakhel tehsil,North Waziristan,FATA,1,,,6,6,N,70.1455,32.9746
+228,Thursday,3,17,2011,Asif Ali Zardari,,Nevi Adda Shega area,North Waziristan,FATA,1,,,41,41,Y,70.1455,32.9746
+229,Wednesday,4,13,2011,Asif Ali Zardari,,near Angoor adda,South Waziristan,FATA,1,6,,6,7,N,69.9,33.0333
+230,Friday,4,22,2011,Asif Ali Zardari,5:45,Spinam- mirali tall road- Hassan khel area,North Waziristan,FATA,1,,,25,25,Y,70.1455,32.9746
+231,Friday,5,6,2011,Asif Ali Zardari,,Data khel tehsil- Dowatoui area,North Waziristan,FATA,1,,,18,18,N,70.1455,32.9746
+232,Tuesday,5,10,2011,Asif Ali Zardari,,Angoor Adda,South Waziristan,FATA,1,,,3,5,N,69.9,33.0333
+233,Thursday,5,12,2011,Asif Ali Zardari,11:00,Paikhel Mazdok area- Dattakhel Tehsil,North Waziristan,FATA,1,,,8,8,N,70.1455,32.9746
+234,Friday,5,13,2011,Asif Ali Zardari,,Kharkamar area- 40km west of miramshsh,North Waziristan,FATA,1,,,6,6,,70.1455,32.9746
+235,Monday,5,16,2011,Asif Ali Zardari,,Khoshi Torikhel area of Tehsil Mirali,North Waziristan,FATA,1,,,6,6,N,70.1455,32.9746
+236,Monday,5,16,2011,Asif Ali Zardari,,Marki Killey area,North Waziristan,FATA,1,,,4,4,N,70.1455,32.9746
+237,Friday,5,20,2011,Asif Ali Zardari,18:00,Sarbr area- Razmak miranshah road- near Esha check post,North Waziristan,FATA,1,,,6,6,N,70.1455,32.9746
+238,Monday,5,23,2011,Asif Ali Zardari,,machikhel area- near Mirali,North Waziristan,FATA,1,,,7,7,N,70.1455,32.9746
+239,Friday,6,3,2011,Asif Ali Zardari,23:45,Ghwakhwa area- 10km west of wana,South Waziristan,FATA,1,,,5,5,N,69.9,33.0333
+240,Monday,6,6,2011,Asif Ali Zardari,,Shalam Raghzai 10 km northwest of wana,South Waziristan,FATA,1,,,,8,,69.9,33.0333
+241,Monday,6,6,2011,Asif Ali Zardari,,Wach Dana- 12 km northwest of wana,South Waziristan,FATA,1,,,,10,,69.9,33.0333
+242,Monday,6,6,2011,Asif Ali Zardari,,Dare nishtar in shwal,South Waziristan,FATA,1,,,,5,,69.9,33.0333
+243,Wednesday,6,8,2011,Asif Ali Zardari,,Shwal Tehsil- Zoi narry area,North Waziristan,FATA,1,,,24,24,N,70.1455,32.9746
+244,Wednesday,6,15,2011,Asif Ali Zardari,,Wana,South Waziristan,FATA,1,,,7,7,N,69.9,33.0333
+245,Wednesday,6,15,2011,Asif Ali Zardari,,Wana,South Waziristan,FATA,1,,,4,4,N,69.9,33.0333
+246,Wednesday,6,15,2011,Asif Ali Zardari,,Tappi village- 10 km east of miranshah,North Waziristan,FATA,1,,,8,8,N,70.1455,32.9746
+247,Monday,6,20,2011,Asif Ali Zardari,,Khrdand area,Kurram Agency,FATA,1,,,3,12,N,69.9667,33.8167
+248,Monday,6,27,2011,Asif Ali Zardari,,Ghalmandi Panga- Bray Nishtar area near the border with Afghanistan and North Waziristan,North Waziristan,FATA,1,,,8,8,N,70.1455,32.9746
+249,Monday,6,27,2011,Asif Ali Zardari,,Mantoi area- 40 km north-west of Miranshah- South Waziristan,South Waziristan,FATA,1,,,14,14,N,69.9,33.0333
+250,Tuesday,7,5,2011,Asif Ali Zardari,,Guest house in Mirali- about 25 KM east of miranshah,North Waziristan,FATA,1,,,4,4,N,70.1455,32.9746
+251,Monday,7,11,2011,Asif Ali Zardari,2:00,Gorwaik area of dattakhel town,North Waziristan,FATA,1,,,12,12,N,70.1455,32.9746
+252,Tuesday,7,12,2011,Asif Ali Zardari,,Malik shahi village in Birmal Tehsil,South Waziristan,FATA,1,,,13,13,N,69.9,33.0333
+253,Tuesday,7,12,2011,Asif Ali Zardari,,DreNishter Area- shawal valley,North Waziristan,FATA,1,,,16,16,N,70.1455,32.9746
+254,Tuesday,7,12,2011,Asif Ali Zardari,,Neway adda village of Dattakhel,North Waziristan,FATA,1,,,3,3,N,70.1455,32.9746
+255,Monday,8,1,2011,Asif Ali Zardari,,Azamwarsak,South Waziristan,FATA,1,,,6,6,N,69.9,33.0333
+256,Tuesday,8,2,2011,Asif Ali Zardari,,Qutub Khel village- 5km  east of miranshah,North Waziristan,FATA,1,,,4,4,N,70.1455,32.9746
+257,Wednesday,8,10,2011,Asif Ali Zardari,,North western tribal belt along the afghan border,North Waziristan,FATA,2,,,,21,N,70.1455,32.9746
+258,Tuesday,8,16,2011,Asif Ali Zardari,,Miranshah Market,North Waziristan,FATA,2,,,,4,Y,70.1455,32.9746
+259,Friday,8,19,2011,Asif Ali Zardari,,Sheen Warsik in South Waziristan,South Waziristan,FATA,1,,,,4,N,69.9,33.0333
+260,Monday,8,22,2011,Asif Ali Zardari,,Norak area of North Waziristan,North Waziristan,FATA,1,,,,5,N,70.1455,32.9746
+261,Monday,8,22,2011,Asif Ali Zardari,,Khaisura village in Mir ali,North Waziristan,FATA,1,,,,6,,70.1455,32.9746
+262,Sunday,9,11,2011,Asif Ali Zardari,,HisoKhel Village,North Waziristan,FATA,1,,,4,4,N,70.1455,32.9746
+263,Friday,9,23,2011,Asif Ali Zardari,,Khushali Area- Mir Ali,North Waziristan,FATA,1,,,5,5,N,70.1455,32.9746
+264,Tuesday,9,27,2011,Asif Ali Zardari,22:45,Azam warsak,South Waziristan,FATA,1,,4,2,4,,69.9,33.0333
+265,Friday,9,30,2011,Asif Ali Zardari,,Baghar,South Waziristan,FATA,1,,,,4,,69.9,33.0333
+266,Thursday,10,13,2011,Asif Ali Zardari,,Danda Darpakhel,North Waziristan,FATA,1,,6,,6,,70.1455,32.9746
+267,Thursday,10,27,2011,Asif Ali Zardari,,Azam Warsak,South Waziristan,FATA,1,,6,,6,,69.9,33.0333
+268,Sunday,10,30,2011,Asif Ali Zardari,,Datta Khel,North Waziristan,FATA,1,,,6,6,,70.1455,32.9746
+269,Thursday,11,3,2011,Asif Ali Zardari,,Darpakhel Sarai,North Waziristan,FATA,1,,3,,3,,70.1455,32.9746
+270,Tuesday,11,15,2011,Asif Ali Zardari,,Miranshah,North Waziristan,FATA,1,,6,,6,,70.1455,32.9746
+271,Wednesday,11,16,2011,Asif Ali Zardari,,Babar Ghar- Sararogha,South Waziristan,FATA,1,,22,,22,,69.9,33.0333
+272,Thursday,11,17,2011,Asif Ali Zardari,,Shawal,North Waziristan,FATA,1,,7,,7,,70.1455,32.9746
+273,Tuesday,1,10,2012,Asif Ali Zardari,,Miranshah,North Waziristan,FATA,1,,,,4,,70.1455,32.9746
+274,Sunday,10,30,2011,Asif Ali Zardari,,Doga area of Dattakhel- 15 km east of miranshah,North Waziristan,FATA,1,,,6,6,,70.1455,32.9746
+275,Monday,10,31,2011,Asif Ali Zardari,,Naurak mirali,North Waziristan,FATA,1,,,4,4,,70.1455,32.9746
+276,Thursday,11,3,2011,Asif Ali Zardari,,Darpakhel sarai,North Waziristan,FATA,1,,,3,3,,70.1455,32.9746
+277,Tuesday,11,15,2011,Asif Ali Zardari,,Miranshah Bazar,North Waziristan,FATA,1,,,7,7,,70.1455,32.9746
+278,Wednesday,11,16,2011,Asif Ali Zardari,,Baber Ghar area,South Waziristan,FATA,1,,,18,18,,69.9,33.0333
+279,Thursday,11,17,2011,Asif Ali Zardari,,Ramzak area,North Waziristan,FATA,1,,,9,9,,70.1455,32.9746
+280,Tuesday,1,10,2012,Asif Ali Zardari,,Miranshah,North Waziristan,FATA,1,,,4,4,N,70.1455,32.9746
+281,Thursday,1,12,2012,Asif Ali Zardari,19:00,Dogga village- Datta khel tehsil- 45 km west of miranshah,North Waziristan,FATA,1,,,,6,N,70.1455,32.9746
+282,Monday,1,23,2012,Asif Ali Zardari,,Muhammad khel village,North Waziristan,FATA,1,,,2,2,N,70.1455,32.9746
+283,Monday,1,23,2012,Asif Ali Zardari,,Deegan village,North Waziristan,FATA,1,,,3,3,N,70.1455,32.9746
+284,Wednesday,2,8,2012,Asif Ali Zardari,7:00,Tappi- 10KM southeast of Miranshah,North Waziristan,FATA,1,,,10,10,N,70.1455,32.9746
+285,Thursday,2,9,2012,Asif Ali Zardari,6:30,Miranshah,North Waziristan,FATA,1,4,,4,4,N,70.1455,32.9746
+286,Thursday,2,16,2012,Asif Ali Zardari,6:30,Spagla Town Near Miranshah,North Waziristan,FATA,1,,,5,5,N,70.1455,32.9746
+287,Thursday,2,16,2012,Asif Ali Zardari,6:45,Spagla Town Near Miranshah,North Waziristan,FATA,1,,,7,15,N,70.1455,32.9746
+288,Tuesday,3,13,2012,Asif Ali Zardari,7:15,Birmal area of South Waziristan,South Waziristan,FATA,1,0,8,,8,N,69.9,33.0333
+289,Tuesday,3,13,2012,Asif Ali Zardari,,Surra Khawra area of Shawal South Waziristan,South Waziristan,FATA,1,0,7,,,N,69.9,33.0333
+290,Friday,3,9,2012,Asif Ali Zardari,,Mandao area on the boarder od North and South Waziristan,South Waziristan,FATA,3,1,12,,13,N,69.9,33.0333
+291,Friday,3,30,2012,Asif Ali Zardari,3:00,Market in Miranshah North Waziristan,North Waziristan,FATA,3,0,0,4,4,N,70.1455,32.9746
+292,Sunday,4,29,2012,Asif Ali Zardari,,Miranshah,North Waziristan,FATA,1,0,0,0,4,N,70.1455,32.9746
+293,Saturday,5,5,2012,Asif Ali Zardari,,Shawal area- 70km west of Miranshah,North Waziristan,FATA,1,0,0,0,10,Y,70.1455,32.9746
+294,Wednesday,5,23,2012,Asif Ali Zardari,,Miranshah,North Waziristan,FATA,2,0,0,5,5,N,70.1455,32.9746
+295,Thursday,5,24,2012,Asif Ali Zardari,5:30,Mir Ali,North Waziristan,FATA,1,0,0,10,10,N,70.1455,32.9746
+296,Saturday,5,26,2012,Asif Ali Zardari,4:00,Miranshah,North Waziristan,FATA,2,0,0,4,4,N,70.1455,32.9746
+297,Monday,5,28,2012,Asif Ali Zardari,9:00,HassoKhel Town- 25km East of Miranshah,North Waziristan,FATA,1,0,0,8,8,N,70.1455,32.9746
+298,Monday,5,28,2012,Asif Ali Zardari,,Datta Khel District- 30km West of Miranshah,North Waziristan,FATA,2,0,0,4,4,N,70.1455,32.9746
+299,Saturday,6,2,2012,Asif Ali Zardari,8:30,Khawashikhel Village- 5km West of Wana,South Waziristan,FATA,1,0,3,0,3,N,69.9,33.0333
+300,Sunday,6,3,2012,Asif Ali Zardari,,Wacha Dana- 10km West of Wana,South Waziristan,FATA,1,0,11,0,11,N,69.9,33.0333
+301,Monday,6,4,2012,Asif Ali Zardari,3:30,Heshokhel Village- 3km East of Mirali,North Waziristan,FATA,1,1,0,14,15,N,70.1455,32.9746
+302,Wednesday,6,13,2012,Asif Ali Zardari,,Isha Village- 10km East of Miranshah,North Waziristan,FATA,1,0,0,4,4,N,70.1455,32.9746
+303,Thursday,6,14,2012,Asif Ali Zardari,3:15,Miranshah Bazaar,North Waziristan,FATA,2,0,0,4,4,N,70.1455,32.9746
+304,Tuesday,6,26,2012,Asif Ali Zardari,2:00,Shawal Area- 50km Southwest of Miranshah,North Waziristan,FATA,1,0,5,0,5,N,70.1455,32.9746
+305,Sunday,7,1,2012,Asif Ali Zardari,,Shawal District- 50km Southwest of Miranshah,North Waziristan,FATA,1,0,8,0,8,N,70.1455,32.9746
+306,Friday,7,6,2012,Asif Ali Zardari,20:45,Zoi Nari- Tehsil Dattakhel,North Waziristan,FATA,6,0,0,17,17,N,70.1455,32.9746
+307,Friday,7,6,2012,Asif Ali Zardari,22:30,Zoi Nari- Tehsil Dattakhel,North Waziristan,FATA,1,0,0,18,18,N,70.1455,32.9746
+308,Monday,7,23,2012,Asif Ali Zardari,23:00,Dray Nashtar Village- 65km West of Miranshah,North Waziristan,FATA,8,0,0,12,12,N,70.1455,32.9746
+309,Sunday,7,29,2012,Asif Ali Zardari,18:30,Khushali Turkhel Village- 35km East of Miranshah,North Waziristan,FATA,6,0,0,0,7,N,70.1455,32.9746
+310,Saturday,8,18,2012,Asif Ali Zardari,13:30,Shuwedar Village,North Waziristan,FATA,2,0,6,6,12,N,70.1455,32.9746
+311,Sunday,8,19,2012,Asif Ali Zardari,6:45,Mana- Shawal Area,North Waziristan,FATA,1,0,0,7,7,N,70.1455,32.9746
+312,Sunday,8,19,2012,Asif Ali Zardari,,Mana- Shawal Area,North Waziristan,FATA,1,0,0,3,3,N,70.1455,32.9746
+313,Tuesday,8,21,2012,Asif Ali Zardari,,Shna Khora- 5km West of Miranshah,North Waziristan,FATA,1,0,0,6,6,N,70.1455,32.9746
+314,Friday,8,24,2012,Asif Ali Zardari,,Makki Gharr- Shawal Area,North Waziristan,FATA,1,0,6,0,6,N,70.1455,32.9746
+315,Friday,8,24,2012,Asif Ali Zardari,,Tonda Darra- Shawal Area,North Waziristan,FATA,1,0,6,0,6,N,70.1455,32.9746
+316,Friday,8,24,2012,Asif Ali Zardari,,Darra Nishtar- Shawal Area,North Waziristan,FATA,1,0,8,0,8,N,70.1455,32.9746
+317,Saturday,9,1,2012,Asif Ali Zardari,9:00,Degan Area- Datta Khel,North Waziristan,FATA,4,0,0,6,6,N,70.1455,32.9746
+318,Saturday,9,22,2012,Asif Ali Zardari,,Datta Khel,North Waziristan,FATA,1,0,0,4,4,N,70.1455,32.9746
+319,Monday,9,24,2012,Asif Ali Zardari,,Kaderkhail Village- 40km East of Miranshah,North Waziristan,FATA,2,0,0,6,6,N,70.1455,32.9746
+320,Monday,10,1,2012,Asif Ali Zardari,,Khaiderkhel Area- 30 km East of Miranshah,North Waziristan,FATA,4,0,0,3,3,N,70.1455,32.9746
+321,Wednesday,10,10,2012,Asif Ali Zardari,4:00,Hurmaz village of Mir ali Tehsil,North Waziristan,FATA,4,0,0,5,5,N,70.1455,32.9746
+322,Thursday,10,11,2012,Asif Ali Zardari,16:40,Bulandkhel Area- Orakzai,North Waziristan,FATA,4,0,0,18,18,N,70.1455,32.9746
+323,Wednesday,10,24,2012,Asif Ali Zardari,,Tappi Area- 20 km East of Miranshah,North Waziristan,FATA,2,0,0,5,5,Y,70.1455,32.9746
+324,Thursday,11,29,2012,Asif Ali Zardari,12:00,Sheen Warak Area- Wana,North Waziristan,FATA,1,0,0,4,4,N,70.1455,32.9746
+325,Saturday,12,1,2012,Asif Ali Zardari,,Sheen Warsask Area,South Waziristan,FATA,3,0,0,3,4,N,69.9,33.0333
+326,Thursday,12,6,2012,Asif Ali Zardari,7:45,Mubarak Shah Village- Mir Ali,North Waziristan,FATA,2,0,0,4,4,N,70.1455,32.9746
+327,Sunday,12,9,2012,Asif Ali Zardari,,Tabbi Village- Miranshah,North Waziristan,FATA,4,1,0,3,4,N,70.1455,32.9746
+328,Friday,12,21,2012,Asif Ali Zardari,12:15,Hisukhel Area of Mir Ali,North Waziristan,FATA,2,0,0,4,4,N,70.1455,32.9746
+329,Friday,12,28,2012,Asif Ali Zardari,,Gurbuz- 65km West of Miranshah,North Waziristan,FATA,8,0,0,7,7,N,70.1455,32.9746
+330,Wednesday,1,2,2013,Asif Ali Zardari,22:00,Sara Kanda area of Birmal tehsil,South Waziristan,FATA,1,0,17,0,17,N,69.9,33.0333
+331,Sunday,1,6,2013,Asif Ali Zardari,,Babar Ghar Village,South Waziristan,FATA,1,0,17,0,17,N,69.9,33.0333
+332,Tuesday,1,8,2013,Asif Ali Zardari,,Haider Khel Village- 25km East of Miranshah,North Waziristan,FATA,8,0,0,8,8,N,70.1455,32.9746
+333,Tuesday,1,8,2013,Asif Ali Zardari,,Haso Khel village,North Waziristan,FATA,4,0,0,4,4,N,70.1455,32.9746
+334,Thursday,1,10,2013,Asif Ali Zardari,,Heso Khel village- 35km East of Miranshah,North Waziristan,FATA,4,0,0,6,6,N,70.1455,32.9746
+335,Wednesday,2,6,2013,Asif Ali Zardari,,Ghulam Khan Tehsil,North Waziristan,FATA,4,0,0,5,5,N,70.1455,32.9746
+336,Friday,2,8,2013,Asif Ali Zardari,,Bobar Gar area- 50km south of Miranshah,North Waziristan,FATA,2,2,9,0,9,N,70.1455,32.9746
+337,Thursday,3,21,2013,Asif Ali Zardari,23:30,Datta Khel tehsil- 35 kilometres west of Miransha,North Waziristan,FATA,1,0,0,4,4,N,70.1455,32.9746
+338,Sunday,4,14,2013,Asif Ali Zardari,18:30,Datta Khel Tehsil- 50 Kilometres west of Miranshah,North Waziristan,FATA,2,0,0,4,4,N,70.1455,32.9746
+339,Wednesday,4,17,2013,Asif Ali Zardari,,Baber Ghar Area of South Waziristan,South Waziristan,FATA,2,0,5,0,5,N,69.9,33.0333
+340,Wednesday,5,29,2013,Asif Ali Zardari,,Chashma village- 3km east of Miranshah,North Waziristan,FATA,2,0,7,0,7,N,70.1455,32.9746
+341,Tuesday,7,2,2013,Nawaz Sharif,2:30,Sarai Darpa Khel area,North Waziristan,FATA,4,0,17,0,17,N,70.1455,32.9746
+342,Saturday,7,13,2013,Nawaz Sharif,23:30,Mir Ali Tehsil,North Waziristan,FATA,2,0,0,0,2,N,70.1455,32.9746
+343,Friday,9,6,2013,Nawaz Sharif,6:45,Ghulam Khan Area,North Waziristan,FATA,2,3,3,0,7,N,70.1455,32.9746
+344,Sunday,9,22,2013,Nawaz Sharif,12:45,Shawal Town of North Waziristan,North Waziristan,FATA,4,0,0,7,7,N,70.1455,32.9746
+345,Sunday,9,29,2013,Nawaz Sharif,,Dargamandi area- seven km north of Miranshah,North Waziristan,FATA,2,0,0,6,6,N,70.1455,32.9746
+346,Sunday,10,27,2013,Nawaz Sharif,1:00,Zafar Town area near Miramshah Bazar,North Waziristan,FATA,1,0,0,3,3,N,70.1455,32.9746
+347,Tuesday,10,29,2013,Nawaz Sharif,1:30,Dandey Darpakhel Area- five kilometres (three miles) north of Miranshah,North Waziristan,FATA,1,0,5,0,5,N,70.1455,32.9746
+348,Thursday,11,21,2013,Nawaz Sharif,,Tehsil Tal's main Tal bazaar,Hangu,KPK,4,0,0,2,8,N,71.06,33.53
+349,Thursday,11,28,2013,Nawaz Sharif,,Chashma area of Miranshah,North Waziristan,FATA,2,0,3,0,3,N,70.1455,32.9746
+350,Saturday,12,14,2013,Nawaz Sharif,,Mach Magai area of Loe Suleman,Khyber Agency,FATA,1,0,0,6,6,N,71.1481,34.0983
+351,Wednesday,12,25,2013,Nawaz Sharif,2:00,Qutub Khel village- 5km  east of miranshah,North Waziristan,FATA,2,0,0,4,4,N,70.1455,32.9746
+352,Wednesday,6,11,2014,Nawaz Sharif,2:30,Dargah Mandi village 10 kilometres (six miles) west of the main town of Miramshah,North Waziristan,FATA,8,0,16,0,16,N,70.1455,32.9746
+353,Wednesday,6,18,2014,Nawaz Sharif,5:30,Dargah Mandi village 10 kilometres (six miles) west of the main town of Miramshah,North Waziristan,FATA,6,0,0,6,6,N,70.1455,32.9746
+354,Thursday,7,10,2014,Nawaz Sharif,5:00,Datta Khel is about 50 kilometers (30 miles) west of Miran Shah,North Waziristan,FATA,2,0,6,0,6,N,70.1455,32.9746
+355,Wednesday,7,16,2014,Nawaz Sharif,,Datta Khel is about 50 kilometers (30 miles) west of Miran Shah,North Waziristan,FATA,4,0,20,0,20,N,70.1455,32.9746
+356,Saturday,7,19,2014,Nawaz Sharif,23:45,Datta Khel is about 50 kilometers (30 miles) west of Miran Shah,North Waziristan,FATA,1,0,15,0,15,N,70.1455,32.9746
+357,Wednesday,8,6,2014,Nawaz Sharif,,Datta Khel is about 50 kilometers (30 miles) west of Miran Shah,North Waziristan,FATA,1,0,0,0,6,N,70.1455,32.9746
+358,Wednesday,9,24,2014,Nawaz Sharif,4:45,Lorha Mandi area of Datta Khel tehsil- 65 kilometres west of Miramshah,North Waziristan,FATA,4,0,10,0,10,N,70.1455,32.9746
+359,Sunday,9,28,2014,Nawaz Sharif,12:00,Karikot Karezai Pal- Wana,South Waziristan,FATA,1,0,4,0,4,N,69.9,33.0333
+360,Sunday,10,5,2014,Nawaz Sharif,17:50,Kand Ghar area of Shawal district,South Waziristan,FATA,4,0,5,0,5,N,69.9,33.0333
+361,Monday,10,6,2014,Nawaz Sharif,17:45,Bari Mail area of Shawal district,South Waziristan,FATA,1,0,8,0,8,N,69.9,33.0333
+362,Tuesday,10,7,2014,Nawaz Sharif,,Kandghar area of Shawal,North Waziristan,FATA,2,0,7,0,7,N,70.1455,32.9746
+363,Tuesday,10,7,2014,Nawaz Sharif,12:30,Datta Khel area,North Waziristan,FATA,3,0,4,0,8,N,70.1455,32.9746
+364,Tuesday,10,7,2014,Nawaz Sharif,18:30,A house in the Datta Khel area,North Waziristan,FATA,1,0,0,4,4,N,70.1455,32.9746
+365,Thursday,10,9,2014,Nawaz Sharif,,Loman area of Dattakhel Tehsil,North Waziristan,FATA,1,0,0,3,4,N,70.1455,32.9746
+366,Thursday,10,30,2014,Nawaz Sharif,,Nargas- a village some 30 kilometres west of Wana- the main town in the South Waziristan agency,South Waziristan,FATA,1,0,7,0,7,N,69.9,33.0333
+367,Tuesday,11,11,2014,Nawaz Sharif,,Doa Toi area of Datakhel tehsil in North Waziristan Agency,North Waziristan,FATA,1,0,6,0,6,N,70.1455,32.9746
+368,Thursday,11,20,2014,Nawaz Sharif,,Dattakhel,North Waziristan,FATA,2,,6,-6,5,Y,70.1455,32.9746
+369,Friday,11,21,2014,Nawaz Sharif,,N/A,North Waziristan,FATA,1,,5,-5,9,N,70.1455,32.9746
+370,Wednesday,11,26,2014,Nawaz Sharif,,Kundghar,North Waziristan,FATA,2,,4,-4,6,N,70.1455,32.9746
+371,Wednesday,12,3,2014,Nawaz Sharif,,Dattakhel,North Waziristan,FATA,1,,3,3,9,N,70.1455,32.9746
+372,Sunday,12,7,2014,Nawaz Sharif,6:00,Kher Tangi,North Waziristan,FATA,1,,,0,18,N,70.1455,32.9746
+373,Saturday,12,20,2014,Nawaz Sharif,,Dattakhel,North Waziristan,FATA,2,,,0,6,N,70.1455,32.9746
+374,Friday,12,26,2014,Nawaz Sharif,,Dattakhel,North Waziristan,FATA,1,,,0,6,N,70.1455,32.9746
+375,Friday,12,26,2014,Nawaz Sharif,,Shawal Valley,North Waziristan,FATA,1,,5,-1,39,N,70.1455,32.9746
+376,Saturday,1,3,2015,Nawaz Sharif,,Shawal valley,North Waziristan,FATA,1,,,,8,N,70.1455,32.9746
+377,Thursday,1,15,2015,Nawaz Sharif,,Acha Dara area ,North Waziristan,FATA,1,,6,,6,,70.1455,32.9746
+378,Thursday,1,15,2015,Nawaz Sharif,2:00,Wacha Dhara area- Spilgai- border of SWA and NWA,South Waziristan,FATA,1,,,7,7,,69.9,33.0333
+379,Monday,1,19,2015,Nawaz Sharif,,Shawal Valley,North Waziristan,FATA,2,,,,6,,70.1455,32.9746
+380,Wednesday,1,28,2015,Nawaz Sharif,,Shawal Valley,North Waziristan,FATA,2,,,,7,,70.1455,32.9746
+381,Tuesday,3,24,2015,Nawaz Sharif,,Nazyan district of Afghanistan's Nangarhar province,Khyber Agency,FATA,2,,9,,9,N,71.1481,34.0983
+382,Wednesday,3,18,2015,Nawaz Sharif,,Shabak Kurram tribal agency-adjacent to North Waziristan,North Waziristan,FATA,1,,3,,3,N,70.1455,32.9746
+383,Sunday,4,12,2015,Nawaz Sharif,,Shawwal,North Waziristan,FATA,2,4,,,4,N,70.1455,32.9746
+384,Saturday,5,16,2015,Nawaz Sharif,,Warokey Mandi area Shawal district,North Waziristan,FATA,2,,,,6,N,70.1455,32.9746
+385,Monday,5,18,2015,Nawaz Sharif,,Zoey Narey Shawal Valley,North Waziristan,FATA,2,,,,6,N,70.1455,32.9746
+386,Monday,5,18,2015,Nawaz Sharif,,Datta Khel,North Waziristan,FATA,2,,,,6,N,70.1455,32.9746
+387,Thursday,5,21,2015,Nawaz Sharif,,Datta Khel- Shawal Valley,North Waziristan,FATA,1,,,,16,N,70.1455,32.9746
+388,Monday,6,1,2015,Nawaz Sharif,,Shawal area,North Waziristan,FATA,2,,,,4,N,70.1455,32.9746
+389,Saturday,6,6,2015,Nawaz Sharif,,Shawal Valley,North Waziristan,FATA,1,,9,,9,N,70.1455,32.9746
+390,Thursday,8,6,2015,Nawaz Sharif,,Datta Khel,North Waziristan,FATA,1,,5,,5,N,32.90517,69.7488
+391,Tuesday,9,1,2015,Nawaz Sharif,,Shawal Valley/Datta Khel(Karwanda /Lawra Mandi area),North Waziristan,FATA,1,,,,5,N,32.84444,69.83056
+392,Monday,9,7,2015,Nawaz Sharif,,Shawal Valley,North Waziristan,FATA,1,,,,3,N,32.84444,69.83056
+393,Friday,9,18,2015,Nawaz Sharif,,Shonkrai Narai area,North Waziristan,FATA,2,,,7,7,N,32.32024,69.85974
+394,Friday,9,18,2015,Nawaz Sharif,,Shawal region,North Waziristan,FATA,1,,19,,19,N,32.84444,69.83056
+395,Saturday,1,9,2016,Nawaz Sharif,,Mangroti area,North Waziristan,FATA,1,,,,5,N,32.32024,69.85974
+396,Friday,1,22,2016,Nawaz Sharif,,Kurram Agency,North Waziristan,FATA,4,,,,3,N,33.69598,70.33607
+397,Saturday,5,21,2016,Nawaz Sharif,15:45,Kuchaki,Dalbandin,Balochistan,1,0,1,1,2,N,28.89618,64.39922
+398,Thursday,3,2,2017,Nawaz Sharif,16:00,"Sara Khwa, Kurram Agency",North Waziristan,FATA,1,0,2,0,2,N,32.29381,70.105
+400,Wednesday,4,26,2017,Nawaz Sharif,12:30,Lawara Mandi area,North Waziristan,FATA,2,,7,3,10,,33.14536,70.02923
+401,Wednesday,5,24,2017,Nawaz Sharif,12:00,"Garvik area, Shawal Tehsil",North Waziristan,FATA,1,,,,3,N,32.70619,69.41578
+402,Monday,6,12,2017,Nawaz Sharif,21:00,Spin Thal,Hangu,KPK,1,,,0,2,N,33.35869,70.54072
+403,Monday,7,3,2017,Nawaz Sharif,,,South Waziristan,FATA,2,,,0,4,N,32.12082,69.58999
+404,Friday,9,15,2017,Nawaz Sharif,,Ghuz Ghari,Kurram Agency,FATA,2,,,0,3,N,33.73217,70.15076
+405,Monday,10,16,2017,Nawaz Sharif,,Zero-point,Kurram Agency,FATA,4,,5,,26,N,,
